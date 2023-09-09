@@ -1,0 +1,42 @@
+.admintitle{
+    background-color: black;
+    color:red;
+    margin:0px 50px;
+    height:140px;
+    line-height: 140px;
+    text-align: center;
+}
+.dashboard{
+    background-color: aqua;
+    color:#000;
+    margin:0px 50px;
+
+}
+.dashboard a{
+    font-size: 25px;
+    color:green;
+    text-decoration: none;
+}
+body{
+    background-color: yellow
+    
+}
+@media(max-width: 768px){
+.welcome{
+    font-size: medium;
+}
+}
+@media(max-width: 400px)
+{
+    .welcome{
+        font-size:small;
+        color:green;
+    }
+}
+@media(max-width: 350px)
+{
+    .welcome{
+        font-size:small;
+        color:pink;
+    }
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+}
+.tabl{
+    color:red;
+
+}
+.sho{
+    margin-top: 10px;
+
+   background-color: yellow;
+}
+.tr{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
