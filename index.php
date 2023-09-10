@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Student Mangement System</title>
-    <link href="..\student\css\style1.css" rel="stylesheet" type="text/css">
+    <link href="..\studentt\css\style1.css" rel="stylesheet" type="text/css">
 </head>
 <body>
     
